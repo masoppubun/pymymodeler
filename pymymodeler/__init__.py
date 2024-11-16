@@ -8,4 +8,4 @@ from .gen_sql_model import generate_sqlalchemy_models
 
 __all__ = ["generate_sqlalchemy_models", "generate_pydantic_models"]
 
-__varsion__ = "0.1.0"
+__varsion__ = "0.1.2"
